@@ -1,0 +1,61 @@
+0	N/A	X
+01	Alabama	X
+02	Alaska	X
+04	Arizona	X
+05	Arkansas	X
+06	California	X
+08	Colorado	X
+09	Connecticut	X
+10	Delaware	X
+11	District of Columbia	X
+12	Florida	X
+13	Georgia	X
+15	Hawaii	X
+16	Idaho	X
+17	Illinois	X
+18	Indiana	X
+19	Iowa	X
+20	Kansas	X
+21	Kentucky	X
+22	Louisiana	X
+23	Maine	X
+24	Maryland	X
+25	Massachusetts	X
+26	Michigan	X
+27	Minnesota	X
+28	Mississippi	X
+29	Missouri	X
+30	Montana	X
+31	Nebraska	X
+32	Nevada	X
+33	New Hampshire	X
+34	New Jersey	X
+35	New Mexico	X
+36	New York	X
+37	North Carolina	X
+38	North Dakota	X
+39	Ohio	X
+40	Oklahoma	X
+41	Oregon	X
+42	Pennsylvania	X
+44	Rhode Island	X
+45	South Carolina	X
+46	South Dakota	X
+47	Tennessee	X
+48	Texas	X
+49	Utah	X
+50	Vermont	X
+51	Virginia	X
+53	Washington	X
+54	West Virginia	X
+55	Wisconsin	X
+56	Wyoming	X
+61	Maine-New Hampshire-Vermont	·
+62	Massachusetts-Rhode Island	·
+63	Minnesota-Iowa-Missouri-Kansas-Nebraska-S.Dakota-N.Dakota	·
+64	Maryland-Delaware	·
+65	Montana-Idaho-Wyoming	·
+66	Utah-Nevada	·
+67	Arizona-New Mexico	·
+68	Alaska-Hawaii	·
+72	Puerto Rico	X

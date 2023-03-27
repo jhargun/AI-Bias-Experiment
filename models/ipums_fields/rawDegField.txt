@@ -1,0 +1,38 @@
+0	N/A	X
+11	Agriculture	X
+13	Environment and Natural Resources	X
+14	Architecture	X
+15	Area, Ethnic, and Civilization Studies	X
+19	Communications	X
+20	Communication Technologies	X
+21	Computer and Information Sciences	X
+22	Cosmetology Services and Culinary Arts	X
+23	Education Administration and Teaching	X
+24	Engineering	X
+25	Engineering Technologies	X
+26	Linguistics and Foreign Languages	X
+29	Family and Consumer Sciences	X
+32	Law	X
+33	English Language, Literature, and Composition	X
+34	Liberal Arts and Humanities	X
+35	Library Science	X
+36	Biology and Life Sciences	X
+37	Mathematics and Statistics	X
+38	Military Technologies	X
+40	Interdisciplinary and Multi-Disciplinary Studies (General)	X
+41	Physical Fitness, Parks, Recreation, and Leisure	X
+48	Philosophy and Religious Studies	X
+49	Theology and Religious Vocations	X
+50	Physical Sciences	X
+51	Nuclear, Industrial Radiology, and Biological Technologies	X
+52	Psychology	X
+53	Criminal Justice and Fire Protection	X
+54	Public Affairs, Policy, and Social Work	X
+55	Social Sciences	X
+56	Construction Services	X
+57	Electrical and Mechanic Repairs and Technologies	X
+59	Transportation Sciences and Technologies	X
+60	Fine Arts	X
+61	Medical and Health Sciences and Services	X
+62	Business	X
+64	History	X
