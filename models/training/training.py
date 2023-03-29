@@ -7,29 +7,39 @@ import torch.optim as optim
 import numpy as np
 from torch.utils.data import TensorDataset, DataLoader
 import time
-from training.model import Net
+from model import Net
 import sys
+import pandas as pd
 
 
-def run_train(modelPath, xPath, yPath, epochs=20, prevModelPath = None, useCUDA = False, batchSize = 10):
+def run_train(modelPath, dataPath, epochs=20, prevModelPath = None, useCUDA = False, batchSize = 10):
     device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
     if not useCUDA:
         device = torch.device('cpu')
-    print("Loading numpy")
-    train_x = np.load(xPath)
-    train_y = np.load(yPath)
-    print(train_x.shape)
-    print(train_y.shape)
+        
+        
+    print("Loading csv")
+    # train_x = np.load(xPath)
+    # train_y = np.load(yPath)
+    # print(train_x.shape)
+    # print(train_y.shape)
+    
+    data = pd.read_csv(dataPath)
+    data = data.drop(columns= ['SERIAL', 'PERNUM', 'HHWT', 'CLUSTER', 'STRATA', 'PERWT'])
+    
+    dataTensor = torch.tensor(data.to_numpy())
+    
+    print(dataTensor.shape)
+    
+    return
 
     print("Loading Device")
     
-    tensor_x = torch.Tensor(train_x)
-    tensor_y = torch.Tensor(train_y)
-    tensor_y = tensor_y.type(torch.LongTensor)
+    # tensor_x = torch.Tensor(train_x)
+    # tensor_y = torch.Tensor(train_y)
+    # tensor_y = tensor_y.type(torch.LongTensor)
 
     net = Net()
-    tensor_x = tensor_x.to(device)
-    tensor_y = tensor_y.to(device)
     net.to(device)
 
 
@@ -51,6 +61,8 @@ def run_train(modelPath, xPath, yPath, epochs=20, prevModelPath = None, useCUDA 
         running_loss = 0.0
         for i, data in enumerate(trainLoader):
             X, y = data
+            X.to(device)
+            y.to(device)
             net.zero_grad()
             output = net(X)
             loss = criterion(output, y)

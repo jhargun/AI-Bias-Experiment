@@ -12,7 +12,7 @@ class CustomLoss(nn.Module):
 
 
 
-class Net(nn.Model):
+class Net(nn.Module):
     def __init__(self):
         super().__init__()
         
