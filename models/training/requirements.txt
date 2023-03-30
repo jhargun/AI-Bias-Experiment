@@ -1,0 +1,5 @@
+numpy==1.21.6
+torch==1.13.1+cu117
+torchaudio==0.13.1+cu117
+torchvision==0.1.6
+typing_extensions==4.4.0
