@@ -135,4 +135,7 @@ dmypy.json
 
 
 # dataset folder
-dataset/
+models/dataset/
+
+# models
+models/trained_models/
