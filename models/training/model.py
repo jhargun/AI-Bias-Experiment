@@ -17,13 +17,14 @@ class Net(nn.Module):
         super().__init__()
         
         # Change input size
-        self.input = nn.Linear(784, 128)
+        self.input = nn.Linear(572, 128)
         self.hidden1 = nn.Linear(128, 128)
         self.hidden2 = nn.Linear(128, 128)
         self.hidden3 = nn.Linear(128, 128)
         self.output = nn.Linear(128, 1)
         
     def forward(self, x):
+        print('hi',x.shape)
         x = F.relu(self.input(x))
         x = F.relu(self.hidden1(x))
         x = F.relu(self.hidden2(x))
