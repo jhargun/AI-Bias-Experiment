@@ -135,4 +135,4 @@ dmypy.json
 
 
 # dataset folder
-dataset/*
+dataset/
