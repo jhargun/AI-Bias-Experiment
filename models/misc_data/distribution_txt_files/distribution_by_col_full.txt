@@ -1,0 +1,101 @@
+Of the people for whom isFemale is true (689933 people), salary information is:
+Number making <=25k: 314634, number making 25-50k: 208988, number making 50-75k: 91910, number making >75k: 74401
+Of the people for whom isFemale is false (758888), salary information is:
+Number making <=25k: 261056, number making 25-50k: 219651, number making 50-75k: 123883, number making >75k: 154298
+
+
+Of the people for whom isAmericanIndian is true (42172 people), salary information is:
+Number making <=25k: 19837, number making 25-50k: 13246, number making 50-75k: 5217, number making >75k: 3872
+Of the people for whom isAmericanIndian is false (1406649), salary information is:
+Number making <=25k: 555853, number making 25-50k: 415393, number making 50-75k: 210576, number making >75k: 224827
+
+
+Of the people for whom isAsian is true (114530 people), salary information is:
+Number making <=25k: 40676, number making 25-50k: 26492, number making 50-75k: 17541, number making >75k: 29821
+Of the people for whom isAsian is false (1334291), salary information is:
+Number making <=25k: 535014, number making 25-50k: 402147, number making 50-75k: 198252, number making >75k: 198878
+
+
+Of the people for whom isBlack is true (136251 people), salary information is:
+Number making <=25k: 65353, number making 25-50k: 42469, number making 50-75k: 16482, number making >75k: 11947
+Of the people for whom isBlack is false (1312570), salary information is:
+Number making <=25k: 510337, number making 25-50k: 386170, number making 50-75k: 199311, number making >75k: 216752
+
+
+Of the people for whom isPacificIslander is true (6072 people), salary information is:
+Number making <=25k: 2679, number making 25-50k: 1910, number making 50-75k: 808, number making >75k: 675
+Of the people for whom isPacificIslander is false (1442749), salary information is:
+Number making <=25k: 573011, number making 25-50k: 426729, number making 50-75k: 214985, number making >75k: 228024
+
+
+Of the people for whom isWhite is true (1118744 people), salary information is:
+Number making <=25k: 425766, number making 25-50k: 333371, number making 50-75k: 175153, number making >75k: 184454
+Of the people for whom isWhite is false (330077), salary information is:
+Number making <=25k: 149924, number making 25-50k: 95268, number making 50-75k: 40640, number making >75k: 44245
+
+
+Of the people for whom isOtherRace is true (190660 people), salary information is:
+Number making <=25k: 95530, number making 25-50k: 57936, number making 50-75k: 20762, number making >75k: 16432
+Of the people for whom isOtherRace is false (1258161), salary information is:
+Number making <=25k: 480160, number making 25-50k: 370703, number making 50-75k: 195031, number making >75k: 212267
+
+
+Of the people for whom hasHealthInsurance is true (1330742 people), salary information is:
+Number making <=25k: 497217, number making 25-50k: 398990, number making 50-75k: 209577, number making >75k: 224958
+Of the people for whom hasHealthInsurance is false (118079), salary information is:
+Number making <=25k: 78473, number making 25-50k: 29649, number making 50-75k: 6216, number making >75k: 3741
+
+
+Of the people for whom hasPrivateHealthInsurance is true (1189499 people), salary information is:
+Number making <=25k: 391451, number making 25-50k: 374909, number making 50-75k: 203424, number making >75k: 219715
+Of the people for whom hasPrivateHealthInsurance is false (259322), salary information is:
+Number making <=25k: 184239, number making 25-50k: 53730, number making 50-75k: 12369, number making >75k: 8984
+
+
+Of the people for whom hasPublicHealthInsurance is true (245927 people), salary information is:
+Number making <=25k: 157938, number making 25-50k: 50088, number making 50-75k: 18756, number making >75k: 19145
+Of the people for whom hasPublicHealthInsurance is false (1202894), salary information is:
+Number making <=25k: 417752, number making 25-50k: 378551, number making 50-75k: 197037, number making >75k: 209554
+
+
+Of the people for whom isInSchool is true (140914 people), salary information is:
+Number making <=25k: 101344, number making 25-50k: 23753, number making 50-75k: 9264, number making >75k: 6553
+Of the people for whom isInSchool is false (1307907), salary information is:
+Number making <=25k: 474346, number making 25-50k: 404886, number making 50-75k: 206529, number making >75k: 222146
+
+
+Of the people for whom isHispanic is true (218986 people), salary information is:
+Number making <=25k: 111162, number making 25-50k: 67213, number making 50-75k: 23371, number making >75k: 17240
+Of the people for whom isHispanic is false (1229835), salary information is:
+Number making <=25k: 464528, number making 25-50k: 361426, number making 50-75k: 192422, number making >75k: 211459
+
+
+Of the people for whom bornInUS is true (1209661 people), salary information is:
+Number making <=25k: 475050, number making 25-50k: 363991, number making 50-75k: 185542, number making >75k: 185078
+Of the people for whom bornInUS is false (239160), salary information is:
+Number making <=25k: 100640, number making 25-50k: 64648, number making 50-75k: 30251, number making >75k: 43621
+
+
+Of the people for whom speaksEnglish is true (1436744 people), salary information is:
+Number making <=25k: 567066, number making 25-50k: 425882, number making 50-75k: 215354, number making >75k: 228442
+Of the people for whom speaksEnglish is false (12077), salary information is:
+Number making <=25k: 8624, number making 25-50k: 2757, number making 50-75k: 439, number making >75k: 257
+
+
+Of the people for whom isSelfEmployed is true (150721 people), salary information is:
+Number making <=25k: 106041, number making 25-50k: 18425, number making 50-75k: 9126, number making >75k: 17129
+Of the people for whom isSelfEmployed is false (1298100), salary information is:
+Number making <=25k: 469649, number making 25-50k: 410214, number making 50-75k: 206667, number making >75k: 211570
+
+
+Of the people for whom isPrivateSector is true (1059612 people), salary information is:
+Number making <=25k: 404020, number making 25-50k: 323673, number making 50-75k: 155685, number making >75k: 176234
+Of the people for whom isPrivateSector is false (389209), salary information is:
+Number making <=25k: 171670, number making 25-50k: 104966, number making 50-75k: 60108, number making >75k: 52465
+
+
+Of the people for whom isPublicSector is true (235633 people), salary information is:
+Number making <=25k: 63408, number making 25-50k: 86182, number making 50-75k: 50850, number making >75k: 35193
+Of the people for whom isPublicSector is false (1213188), salary information is:
+Number making <=25k: 512282, number making 25-50k: 342457, number making 50-75k: 164943, number making >75k: 193506
+
