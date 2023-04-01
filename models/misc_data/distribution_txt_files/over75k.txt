@@ -1,0 +1,75 @@
+Values for Over 75k salary (228699 entries)
+
+Information for column AGE:
+count    228699.000000
+mean         48.271046
+std          11.389016
+min          16.000000
+25%          39.000000
+50%          48.000000
+75%          57.000000
+max          95.000000
+Name: AGE, dtype: float64
+
+Information for column INCWAGE_CPIU_2010:
+count    228699.000000
+mean     137354.641476
+std       91532.722240
+min       75083.000000
+25%       86033.000000
+50%      102457.000000
+75%      141563.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+Information for column isFemale:
+True: 74401, False: 154298
+
+Information for column isAmericanIndian:
+True: 3872, False: 224827
+
+Information for column isAsian:
+True: 29821, False: 198878
+
+Information for column isBlack:
+True: 11947, False: 216752
+
+Information for column isPacificIslander:
+True: 675, False: 228024
+
+Information for column isWhite:
+True: 44245, False: 184454
+
+Information for column isOtherRace:
+True: 16432, False: 212267
+
+Information for column hasHealthInsurance:
+True: 3741, False: 224958
+
+Information for column hasPrivateHealthInsurance:
+True: 8984, False: 219715
+
+Information for column hasPublicHealthInsurance:
+True: 19145, False: 209554
+
+Information for column isInSchool:
+True: 6553, False: 222146
+
+Information for column isHispanic:
+True: 17240, False: 211459
+
+Information for column bornInUS:
+True: 43621, False: 185078
+
+Information for column speaksEnglish:
+True: 257, False: 228442
+
+Information for column isSelfEmployed:
+True: 17129, False: 211570
+
+Information for column isPrivateSector:
+True: 52465, False: 176234
+
+Information for column isPublicSector:
+True: 35193, False: 193506
+
