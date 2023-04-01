@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[19]:
+# In[ ]:
 
 
 import torch
@@ -17,7 +17,7 @@ import pandas as pd
 
 # Model Definition
 
-# In[28]:
+# In[ ]:
 
 
 class Net(nn.Module):
@@ -46,20 +46,20 @@ class Net(nn.Module):
 
 # Variables Definintions
 
-# In[21]:
+# In[ ]:
 
 
 t = int(time.time())
 useCUDA = True
 dataPath = "../large_field_preprocessed_data.csv"
-epochs = 50
-batchSize = 32
+epochs = 100
+batchSize = 64
 modelPath = f"../trained_models/{t}"
 
 
 # Device Check
 
-# In[22]:
+# In[ ]:
 
 
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
@@ -69,25 +69,29 @@ if not useCUDA:
 
 # Model and Dataset Creation
 
-# In[29]:
+# In[ ]:
 
 
 net = Net()
 net = net.to(device)
 
 
-trainSet = torch.load("../dataset/trainSet.pt")
+trainSetX = torch.load("../dataset/trainSet.pt")
+trainSetY = torch.load("../dataset/trainSetY.pt")
+trainSetX = trainSetX.to(device)
+trainSetY = trainSetY.to(device)
+trainSet = TensorDataset(trainSetX, trainSetY)
 trainLoader = DataLoader(trainSet, batch_size=batchSize, shuffle=True)
 
 
 # Training
 
-# In[30]:
+# In[ ]:
 
 
-optimizer = optim.Adam(net.parameters(), lr =1e-5)
+optimizer = optim.Adam(net.parameters(), lr =1e-6)
 
-criterion = nn.MSELoss(reduction='mean')
+criterion = nn.L1Loss(reduction='mean')
 
 print("Epochs Started")
 
@@ -110,6 +114,7 @@ for epoch in range(epochs):
 		if i % 1000 == 999:    # print every 1000 mini-batches
 			print(f'[{epoch + 1}, {i + 1:5d}] loss: {running_loss / 1000:.3f}')
 			running_loss = 0.0
+	
 
 torch.save(net.state_dict(), modelPath)
 torch.cuda.empty_cache()
