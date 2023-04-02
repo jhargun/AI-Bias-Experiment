@@ -27,8 +27,10 @@ class ClassificationNet(nn.Module):
         
     def forward(self, x):
         print('hi',x.shape)
-        x = F.relu(self.input(x))
-        x = F.relu(self.hidden1(x))
-        x = F.relu(self.hidden2(x))
-        x = F.relu(self.hidden3(x))
+        x = F.leaky_relu(self.input(x))
+        x = F.leaky_relu(self.hidden1(x))
+        x = F.leaky_relu(self.hidden2(x))
+        x = F.leaky_relu(self.hidden3(x))
+        x = F.leaky_relu(self.hidden4(x))
+        x = F.leaky_relu(self.hidden5(x))
         x = self.output(x)
