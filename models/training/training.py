@@ -24,7 +24,7 @@ t = int(time.time())
 inputSize = 573
 useCUDA = True
 epochs = 1000
-batchSize = 4096
+batchSize = 8192
 lr = 1e-4
 
 name = "AllFields"
