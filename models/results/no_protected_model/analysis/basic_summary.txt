@@ -1,0 +1,43 @@
+Income summary
+count    217324.000000
+mean      38658.677960
+std       30163.983138
+min           0.000000
+25%       14860.000000
+50%       31285.000000
+75%       57095.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+Income prediction summary
+count    217324.000000
+mean      36286.281250
+std       26202.091797
+min           0.000000
+25%       15753.000000
+50%       32032.500000
+75%       52514.000000
+max      118745.000000
+Name: Income_Pred, dtype: float64
+
+Absolute error summary
+count    217324.000000
+mean      12545.848655
+std       14240.669595
+min           0.000000
+25%        2852.000000
+50%        7754.000000
+75%       17082.250000
+max      100161.000000
+Name: Pred_AbsError, dtype: float64
+
+Relative error summary
+count    217324.000000
+mean      -2372.397862
+std       18829.960587
+min     -100000.000000
+25%       -9466.000000
+50%           0.000000
+75%        6365.000000
+max      100161.000000
+Name: Pred_Error, dtype: float64
