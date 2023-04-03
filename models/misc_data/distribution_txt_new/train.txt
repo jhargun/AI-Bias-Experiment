@@ -1,0 +1,135 @@
+Values for Train split (1231497 entries)
+
+Information for column AGE:
+count    1.231497e+06
+mean     4.365052e+01
+std      1.498938e+01
+min      1.600000e+01
+25%      3.100000e+01
+50%      4.300000e+01
+75%      5.600000e+01
+max      9.500000e+01
+Name: AGE, dtype: float64
+
+Information for column INCWAGE_CPIU_2010:
+count    1.231497e+06
+mean     4.569919e+04
+std      5.685871e+04
+min      0.000000e+00
+25%      1.501700e+04
+50%      3.128500e+04
+75%      5.709500e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+Information for column isFemale:
+True: 586371, False: 645126
+
+Information for column isAmericanIndian:
+True: 35774, False: 1195723
+
+Information for column isAsian:
+True: 97376, False: 1134121
+
+Information for column isBlack:
+True: 115975, False: 1115522
+
+Information for column isPacificIslander:
+True: 5145, False: 1226352
+
+Information for column isWhite:
+True: 280628, False: 950869
+
+Information for column isOtherRace:
+True: 162150, False: 1069347
+
+Information for column hasHealthInsurance:
+True: 100391, False: 1131106
+
+Information for column hasPrivateHealthInsurance:
+True: 220364, False: 1011133
+
+Information for column hasPublicHealthInsurance:
+True: 208840, False: 1022657
+
+Information for column isInSchool:
+True: 119832, False: 1111665
+
+Information for column isHispanic:
+True: 186222, False: 1045275
+
+Information for column bornInUS:
+True: 203025, False: 1028472
+
+Information for column speaksEnglish:
+True: 10295, False: 1221202
+
+Information for column speaksOnlyEnglish:
+True: 249571, False: 981926
+
+Information for column speaksEnglishWell:
+True: 38986, False: 1192511
+
+Information for column isMarried:
+True: 548370, False: 683127
+
+Information for column wasMarried:
+True: 168445, False: 1063052
+
+Information for column neverMarried:
+True: 379925, False: 851572
+
+Information for column sameSexMarriage:
+True: 15324, False: 1216173
+
+Information for column mixedRaceMarriage:
+True: 116570, False: 1114927
+
+Information for column isSelfEmployed:
+True: 127906, False: 1103591
+
+Information for column isPrivateSector:
+True: 330938, False: 900559
+
+Information for column isPublicSector:
+True: 200623, False: 1030874
+
+Information for column isUnpaidFamilyWorker:
+True: 2409, False: 1229088
+
+Information for column noSchooling:
+True: 14979, False: 1216518
+
+Information for column maxGrade4:
+True: 3260, False: 1228237
+
+Information for column maxGrade8:
+True: 14868, False: 1216629
+
+Information for column maxSomeHS:
+True: 62584, False: 1168913
+
+Information for column highSchoolDiploma:
+True: 283014, False: 948483
+
+Information for column someCollege:
+True: 246075, False: 985422
+
+Information for column associatesDegree:
+True: 114518, False: 1116979
+
+Information for column bachelorsDegree:
+True: 296274, False: 935223
+
+Information for column mastersDegree:
+True: 137342, False: 1094155
+
+Information for column bachelorsPlusProfessionalDegree:
+True: 33964, False: 1197533
+
+Information for column doctoralDegree:
+True: 24619, False: 1206878
+
+Information for column has2ndDegree:
+True: 56885, False: 1174612
+
