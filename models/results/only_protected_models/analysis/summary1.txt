@@ -1,0 +1,93 @@
+Mean prediction for isFemale is significantly different than mean prediction for not isFemale
+Mean prediction for isFemale: 28263.486328125	Mean prediction for not isFemale: 39533.75390625
+
+Mean absolute error for isFemale is significantly different than mean absolute error for not isFemale
+Mean absolute error for isFemale: 20671.092601533383	Mean absolute error for not isFemale: 23875.055598530264
+
+Mean relative error for isFemale is significantly different than mean relative error for not isFemale
+Mean relative error for isFemale: -5541.975512253529	Mean relative error for not isFemale: -3543.0012921713756
+
+Mean prediction for isAmericanIndian is significantly different than mean prediction for not isAmericanIndian
+Mean prediction for isAmericanIndian: 27801.771484375	Mean prediction for not isAmericanIndian: 34356.0546875
+
+Mean absolute error for isAmericanIndian is significantly different than mean absolute error for not isAmericanIndian
+Mean absolute error for isAmericanIndian: 19440.301344170053	Mean absolute error for not isAmericanIndian: 22436.4692783251
+
+Mean relative error for isAmericanIndian is significantly different than mean relative error for not isAmericanIndian
+Mean relative error for isAmericanIndian: -5682.77399187246	Mean relative error for not isAmericanIndian: -4459.566829124907
+
+Mean prediction for isAsian is significantly different than mean prediction for not isAsian
+Mean prediction for isAsian: 41340.12890625	Mean prediction for not isAsian: 33548.05078125
+
+Mean absolute error for isAsian is significantly different than mean absolute error for not isAsian
+Mean absolute error for isAsian: 27244.94234580856	Mean absolute error for not isAsian: 21928.63079382525
+
+Mean prediction for isBlack is significantly different than mean prediction for not isBlack
+Mean prediction for isBlack: 26976.54296875	Mean prediction for not isBlack: 34902.5859375
+
+Mean absolute error for isBlack is significantly different than mean absolute error for not isBlack
+Mean absolute error for isBlack: 18691.965131189583	Mean absolute error for not isBlack: 22724.490895619343
+
+Mean prediction for isPacificIslander is significantly different than mean prediction for not isPacificIslander
+Mean prediction for isPacificIslander: 29004.037109375	Mean prediction for not isPacificIslander: 34185.203125
+
+Mean absolute error for isPacificIslander is significantly different than mean absolute error for not isPacificIslander
+Mean absolute error for isPacificIslander: 18949.53074433657	Mean absolute error for not isPacificIslander: 22362.821813611095
+
+Mean prediction for isWhite is significantly different than mean prediction for not isWhite
+Mean prediction for isWhite: 35098.1328125	Mean prediction for not isWhite: 30988.73828125
+
+Mean absolute error for isWhite is significantly different than mean absolute error for not isWhite
+Mean absolute error for isWhite: 22825.628014892034	Mean absolute error for not isWhite: 20727.647960524984
+
+Mean prediction for isOtherRace is significantly different than mean prediction for not isOtherRace
+Mean prediction for isOtherRace: 26581.0546875	Mean prediction for not isOtherRace: 35307.94921875
+
+Mean absolute error for isOtherRace is significantly different than mean absolute error for not isOtherRace
+Mean absolute error for isOtherRace: 18093.277446509997	Mean absolute error for not isOtherRace: 22990.7444733971
+
+Mean prediction for isHispanic is significantly different than mean prediction for not isHispanic
+Mean prediction for isHispanic: 25831.71875	Mean prediction for not isHispanic: 35642.125
+
+Mean absolute error for isHispanic is significantly different than mean absolute error for not isHispanic
+Mean absolute error for isHispanic: 17571.92168233427	Mean absolute error for not isHispanic: 23196.18186497616
+
+Mean absolute error for bornInUS is significantly different than mean absolute error for not bornInUS
+Mean absolute error for bornInUS: 22150.89352002605	Mean absolute error for not bornInUS: 23337.91396153314
+
+Mean prediction for isMarried is significantly different than mean prediction for not isMarried
+Mean prediction for isMarried: 41682.91796875	Mean prediction for not isMarried: 24745.3671875
+
+Mean absolute error for isMarried is significantly different than mean absolute error for not isMarried
+Mean absolute error for isMarried: 24867.250624803455	Mean absolute error for not isMarried: 19193.509275957134
+
+Mean relative error for isMarried is significantly different than mean relative error for not isMarried
+Mean relative error for isMarried: -3721.90305202006	Mean relative error for not isMarried: -5464.519826710611
+
+Mean prediction for wasMarried is significantly different than mean prediction for not wasMarried
+Mean prediction for wasMarried: 31577.296875	Mean prediction for not wasMarried: 34574.4609375
+
+Mean absolute error for wasMarried is significantly different than mean absolute error for not wasMarried
+Mean absolute error for wasMarried: 21375.8377363551	Mean absolute error for not wasMarried: 22502.96155117976
+
+Mean prediction for neverMarried is significantly different than mean prediction for not neverMarried
+Mean prediction for neverMarried: 21688.224609375	Mean prediction for not neverMarried: 39682.26953125
+
+Mean absolute error for neverMarried is significantly different than mean absolute error for not neverMarried
+Mean absolute error for neverMarried: 18216.96492544031	Mean absolute error for not neverMarried: 24176.040506816404
+
+Mean relative error for neverMarried is significantly different than mean relative error for not neverMarried
+Mean relative error for neverMarried: -5756.872963485253	Mean relative error for not neverMarried: -3937.5528851897575
+
+Mean prediction for sameSexMarriage is significantly different than mean prediction for not sameSexMarriage
+Mean prediction for sameSexMarriage: 40414.77734375	Mean prediction for not sameSexMarriage: 34085.78125
+
+Mean absolute error for sameSexMarriage is significantly different than mean absolute error for not sameSexMarriage
+Mean absolute error for sameSexMarriage: 24724.84143126177	Mean absolute error for not sameSexMarriage: 22318.86911011837
+
+Mean prediction for mixedRaceMarriage is significantly different than mean prediction for not mixedRaceMarriage
+Mean prediction for mixedRaceMarriage: 42454.328125	Mean prediction for not mixedRaceMarriage: 33298.1875
+
+Mean absolute error for mixedRaceMarriage is significantly different than mean absolute error for not mixedRaceMarriage
+Mean absolute error for mixedRaceMarriage: 24730.582298212285	Mean absolute error for not mixedRaceMarriage: 22099.74665514876
+

@@ -1,0 +1,1190 @@
+Of the people for whom isFemale is true (103562 of 217324 entries, or 47.65327345346119%), actual salaries are:
+count    103562.000000
+mean      33805.460410
+std       27550.562584
+min           0.000000
+25%       11732.000000
+50%       27374.000000
+75%       47709.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    103562.000000
+mean      31956.978516
+std       24305.478516
+min           0.000000
+25%       13112.000000
+50%       27525.000000
+75%       45447.500000
+max      112338.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    103562.000000
+mean      10638.112049
+std       12706.056790
+min           0.000000
+25%        2300.250000
+50%        6345.000000
+75%       14083.000000
+max      105115.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    103562.000000
+mean      -1848.481895
+std       16468.074617
+min     -100000.000000
+25%       -7504.000000
+50%           1.000000
+75%        5372.500000
+max      105115.000000
+Name: Pred_Error, dtype: float64
+
+
+Of the people for whom isFemale is false (113762 of 217324 entries, or 52.34672654653881%), actual salaries are:
+count    113762.000000
+mean      43076.751798
+std       31720.983046
+min           0.000000
+25%       17989.000000
+50%       37542.000000
+75%       64916.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    113762.000000
+mean      41370.394531
+std       28693.853516
+min           0.000000
+25%       19715.250000
+50%       36783.500000
+75%       60136.750000
+max      116471.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    113762.000000
+mean      13357.270714
+std       15216.073264
+min           0.000000
+25%        2882.000000
+50%        8215.000000
+75%       18225.000000
+max      109438.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    113762.000000
+mean      -1706.353923
+std       20175.119963
+min     -100000.000000
+25%       -9312.000000
+50%           1.000000
+75%        7285.000000
+max      109438.000000
+Name: Pred_Error, dtype: float64
+
+
+
+Of the people for whom isAmericanIndian is true (6398 of 217324 entries, or 2.9439914597559405%), actual salaries are:
+count      6398.000000
+mean      33484.544233
+std       27061.485301
+min           0.000000
+25%       12514.000000
+50%       27374.000000
+75%       46927.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count      6398.000000
+mean      30613.851562
+std       22535.070312
+min           0.000000
+25%       14098.250000
+50%       27151.500000
+75%       42377.750000
+max      112738.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count      6398.000000
+mean      11137.962645
+std       13402.078276
+min           0.000000
+25%        2315.000000
+50%        6553.500000
+75%       14748.750000
+max      100000.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count      6398.000000
+mean      -2870.691622
+std       17188.576087
+min     -100000.000000
+25%       -8489.750000
+50%         -77.500000
+75%        5045.000000
+max       92105.000000
+Name: Pred_Error, dtype: float64
+
+
+Of the people for whom isAmericanIndian is false (210926 of 217324 entries, or 97.05600854024405%), actual salaries are:
+count    210926.000000
+mean      38815.624508
+std       30239.345899
+min           0.000000
+25%       15017.000000
+50%       31285.000000
+75%       57877.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    210926.000000
+mean      37074.808594
+std       27207.687500
+min           0.000000
+25%       16095.000000
+50%       32240.000000
+75%       53348.000000
+max      116471.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    210926.000000
+mean      12089.516257
+std       14162.144040
+min           0.000000
+25%        2577.000000
+50%        7273.000000
+75%       16280.000000
+max      109438.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    210926.000000
+mean      -1740.819207
+std       18538.957743
+min     -100000.000000
+25%       -8374.000000
+50%           1.000000
+75%        6335.000000
+max      109438.000000
+Name: Pred_Error, dtype: float64
+
+
+
+Of the people for whom isAsian is true (17154 of 217324 entries, or 7.893283760652298%), actual salaries are:
+count     17154.000000
+mean      45973.311181
+std       34055.160969
+min           0.000000
+25%       15642.000000
+50%       39106.000000
+75%       77430.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count     17154.000000
+mean      45137.828125
+std       32126.042969
+min           0.000000
+25%       17852.000000
+50%       39016.500000
+75%       72979.500000
+max      111203.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count     17154.000000
+mean      12999.250729
+std       14924.579975
+min           0.000000
+25%        2716.250000
+50%        7787.500000
+75%       17795.750000
+max      100000.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count     17154.000000
+mean       -835.481345
+std       19774.614751
+min     -100000.000000
+25%       -8422.500000
+50%           1.000000
+75%        7207.750000
+max       99438.000000
+Name: Pred_Error, dtype: float64
+
+
+Of the people for whom isAsian is false (200170 of 217324 entries, or 92.10671623934769%), actual salaries are:
+count    200170.000000
+mean      38031.834686
+std       29723.370922
+min           0.000000
+25%       14860.000000
+50%       31285.000000
+75%       54748.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    200170.000000
+mean      36177.320312
+std       26510.007812
+min           0.000000
+25%       15905.000000
+50%       31655.500000
+75%       51624.750000
+max      116471.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    200170.000000
+mean      11981.140251
+std       14069.210016
+min           0.000000
+25%        2557.000000
+50%        7211.000000
+75%       16094.000000
+max      109438.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    200170.00000
+mean      -1854.51801
+std       18386.18653
+min     -100000.00000
+25%       -8374.00000
+50%           1.00000
+75%        6212.00000
+max      109438.00000
+Name: Pred_Error, dtype: float64
+
+
+
+Of the people for whom isBlack is true (20276 of 217324 entries, or 9.329848521102132%), actual salaries are:
+count     20276.000000
+mean      31592.023575
+std       25736.764921
+min           0.000000
+25%       11732.000000
+50%       25419.000000
+75%       43799.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count     20276.000000
+mean      29455.892578
+std       21614.386719
+min           0.000000
+25%       13798.250000
+50%       25867.000000
+75%       40309.250000
+max      111658.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count     20276.00000
+mean      10911.72100
+std       12791.66662
+min           0.00000
+25%        2454.00000
+50%        6687.00000
+75%       14483.75000
+max      100513.00000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count     20276.000000
+mean      -2136.131239
+std       16677.379318
+min     -100000.000000
+25%       -7956.250000
+50%           1.000000
+75%        5686.500000
+max      100513.000000
+Name: Pred_Error, dtype: float64
+
+
+Of the people for whom isBlack is false (197048 of 217324 entries, or 90.67015147889786%), actual salaries are:
+count    197048.000000
+mean      39385.828118
+std       30490.456886
+min           0.000000
+25%       15642.000000
+50%       32536.000000
+75%       58659.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    197048.000000
+mean      37649.003906
+std       27492.966797
+min           0.000000
+25%       16312.000000
+50%       32920.500000
+75%       54351.000000
+max      116471.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    197048.000000
+mean      12179.813731
+std       14267.639969
+min           0.000000
+25%        2581.000000
+50%        7319.000000
+75%       16414.000000
+max      109438.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    197048.000000
+mean      -1736.828184
+std       18678.800234
+min     -100000.000000
+25%       -8415.250000
+50%           1.000000
+75%        6372.000000
+max      109438.000000
+Name: Pred_Error, dtype: float64
+
+
+
+Of the people for whom isPacificIslander is true (927 of 217324 entries, or 0.4265520605179363%), actual salaries are:
+count       927.000000
+mean      33234.370011
+std       26071.187080
+min           0.000000
+25%       14078.000000
+50%       28156.000000
+75%       46927.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count       927.000000
+mean      31756.580078
+std       22902.570312
+min           0.000000
+25%       14824.500000
+50%       28670.000000
+75%       43897.500000
+max      101277.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count      927.000000
+mean     11398.885653
+std      12597.667205
+min          0.000000
+25%       2794.000000
+50%       7615.000000
+75%      15578.000000
+max      81880.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count      927.000000
+mean     -1477.789644
+std      16928.966615
+min     -81880.000000
+25%      -8607.500000
+50%        -94.000000
+75%       6520.000000
+max      79781.000000
+Name: Pred_Error, dtype: float64
+
+
+Of the people for whom isPacificIslander is false (216397 of 217324 entries, or 99.57344793948207%), actual salaries are:
+count    216397.000000
+mean      38681.914574
+std       30178.276876
+min           0.000000
+25%       14860.000000
+50%       31285.000000
+75%       57095.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    216397.000000
+mean      36906.558594
+std       27118.171875
+min           0.000000
+25%       16040.000000
+50%       32071.000000
+75%       52984.000000
+max      116471.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    216397.000000
+mean      12064.341114
+std       14147.446189
+min           0.000000
+25%        2567.000000
+50%        7251.000000
+75%       16235.000000
+max      109438.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    216397.000000
+mean      -1775.351812
+std       18508.034584
+min     -100000.000000
+25%       -8376.000000
+50%           1.000000
+75%        6288.000000
+max      109438.000000
+Name: Pred_Error, dtype: float64
+
+
+
+Of the people for whom isWhite is true (167875 of 217324 entries, or 77.24641549023578%), actual salaries are:
+count    167875.000000
+mean      39671.918761
+std       30443.683188
+min           0.000000
+25%       15642.000000
+50%       32849.000000
+75%       58659.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    167875.000000
+mean      37881.613281
+std       27329.314453
+min           0.000000
+25%       16478.000000
+50%       33661.000000
+75%       54643.000000
+max      116471.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    167875.000000
+mean      12283.304727
+std       14344.342663
+min           0.000000
+25%        2607.000000
+50%        7396.000000
+75%       16582.500000
+max      109438.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    167875.000000
+mean      -1790.300789
+std       18799.878835
+min     -100000.000000
+25%       -8522.000000
+50%           1.000000
+75%        6406.000000
+max      109438.000000
+Name: Pred_Error, dtype: float64
+
+
+Of the people for whom isWhite is false (49449 of 217324 entries, or 22.753584509764224%), actual salaries are:
+count     49449.000000
+mean      35218.814678
+std       28931.205353
+min           0.000000
+25%       13296.000000
+50%       27374.000000
+75%       50838.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count     49449.000000
+mean      33499.792969
+std       26039.976562
+min           0.000000
+25%       14740.000000
+50%       27469.000000
+75%       45991.000000
+max      111203.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count     49449.000000
+mean      11308.503913
+std       13401.595313
+min           0.000000
+25%        2440.000000
+50%        6818.000000
+75%       15044.000000
+max      100513.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count     49449.000000
+mean      -1719.023074
+std       17450.859686
+min     -100000.000000
+25%       -7842.000000
+50%           1.000000
+75%        5927.000000
+max      100513.000000
+Name: Pred_Error, dtype: float64
+
+
+
+Of the people for whom isOtherRace is true (28510 of 217324 entries, or 13.118661537612045%), actual salaries are:
+count     28510.000000
+mean      30931.371098
+std       25892.235593
+min           0.000000
+25%       11732.000000
+50%       24402.000000
+75%       43016.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count     28510.000000
+mean      28683.750000
+std       22080.337891
+min           0.000000
+25%       12997.000000
+50%       25036.000000
+75%       38642.750000
+max      109859.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count     28510.000000
+mean      10474.502175
+std       12836.156376
+min           0.000000
+25%        2120.000000
+50%        6195.000000
+75%       13787.500000
+max      100000.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count     28510.000000
+mean      -2247.621291
+std       16414.444130
+min     -100000.000000
+25%       -7587.000000
+50%           1.000000
+75%        5075.500000
+max       96871.000000
+Name: Pred_Error, dtype: float64
+
+
+Of the people for whom isOtherRace is false (188814 of 217324 entries, or 86.88133846238796%), actual salaries are:
+count    188814.000000
+mean      39825.463890
+std       30588.381204
+min           0.000000
+25%       15642.000000
+50%       32849.000000
+75%       58659.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    188814.000000
+mean      38122.882812
+std       27572.195312
+min           0.000000
+25%       16612.000000
+50%       33551.000000
+75%       55073.000000
+max      116471.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    188814.000000
+mean      12301.131982
+std       14312.720010
+min           0.000000
+25%        2647.000000
+50%        7426.000000
+75%       16605.750000
+max      109438.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    188814.000000
+mean      -1702.580497
+std       18795.579476
+min     -100000.000000
+25%       -8509.000000
+50%           1.000000
+75%        6494.750000
+max      109438.000000
+Name: Pred_Error, dtype: float64
+
+
+
+Of the people for whom isHispanic is true (32764 of 217324 entries, or 15.076107562901475%), actual salaries are:
+count     32764.000000
+mean      30429.784367
+std       25157.127273
+min           0.000000
+25%       11732.000000
+50%       24246.000000
+75%       41452.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count     32764.000000
+mean      28113.373047
+std       21134.697266
+min           0.000000
+25%       13257.750000
+50%       24891.500000
+75%       37899.750000
+max      109859.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count     32764.000000
+mean      10306.246246
+std       12551.773438
+min           0.000000
+25%        2145.000000
+50%        6141.000000
+75%       13496.750000
+max      100000.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count     32764.000000
+mean      -2316.410634
+std       16074.919849
+min     -100000.000000
+25%       -7473.000000
+50%           1.000000
+75%        5048.750000
+max       96871.000000
+Name: Pred_Error, dtype: float64
+
+
+Of the people for whom isHispanic is false (184560 of 217324 entries, or 84.92389243709853%), actual salaries are:
+count    184560.000000
+mean      40119.511671
+std       30739.000107
+min           0.000000
+25%       15642.000000
+50%       33631.000000
+75%       58659.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    184560.000000
+mean      38441.710938
+std       27742.406250
+min           0.000000
+25%       16694.750000
+50%       33894.000000
+75%       55690.250000
+max      116471.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    184560.000000
+mean      12373.104351
+std       14382.746140
+min           0.000000
+25%        2656.000000
+50%        7471.000000
+75%       16733.000000
+max      109438.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    184560.000000
+mean      -1677.805803
+std       18898.224248
+min     -100000.000000
+25%       -8552.000000
+50%           1.000000
+75%        6550.250000
+max      109438.000000
+Name: Pred_Error, dtype: float64
+
+
+
+Of the people for whom bornInUS is true (181189 of 217324 entries, or 83.37275220408237%), actual salaries are:
+count    181189.000000
+mean      38550.803884
+std       29867.627750
+min           0.000000
+25%       14938.000000
+50%       31285.000000
+75%       56312.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    181189.000000
+mean      36776.839844
+std       26687.763672
+min           0.000000
+25%       16011.000000
+50%       32584.000000
+75%       52679.000000
+max      116471.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    181189.000000
+mean      12004.089768
+std       14020.375366
+min           0.000000
+25%        2584.000000
+50%        7248.000000
+75%       16157.000000
+max      109438.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    181189.000000
+mean      -1773.962785
+std       18371.797150
+min     -100000.000000
+25%       -8357.000000
+50%           1.000000
+75%        6303.000000
+max      109438.000000
+Name: Pred_Error, dtype: float64
+
+
+Of the people for whom bornInUS is false (36135 of 217324 entries, or 16.627247795917615%), actual salaries are:
+count     36135.000000
+mean      39199.582787
+std       31602.984311
+min           0.000000
+25%       14860.000000
+50%       30581.000000
+75%       59050.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count     36135.000000
+mean      37424.898438
+std       29093.695312
+min           0.000000
+25%       16120.500000
+50%       29504.000000
+75%       54939.500000
+max      112111.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count     36135.000000
+mean      12349.383423
+std       14729.147471
+min           0.000000
+25%        2490.000000
+50%        7274.000000
+75%       16622.000000
+max      106153.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count     36135.000000
+mean      -1774.683105
+std       19139.218622
+min     -100000.000000
+25%       -8489.000000
+50%           1.000000
+75%        6193.000000
+max      106153.000000
+Name: Pred_Error, dtype: float64
+
+
+
+Of the people for whom isMarried is true (120838 of 217324 entries, or 55.60269459424638%), actual salaries are:
+count    120838.000000
+mean      45404.819411
+std       31474.905025
+min           0.000000
+25%       20335.000000
+50%       39106.000000
+75%       68826.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    120838.000000
+mean      43823.417969
+std       28481.076172
+min           0.000000
+25%       22754.250000
+50%       39791.500000
+75%       63250.500000
+max      112820.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    120838.000000
+mean      13686.463621
+std       15196.295794
+min           0.000000
+25%        3193.000000
+50%        8637.000000
+75%       18751.000000
+max      109438.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    120838.000000
+mean      -1581.399485
+std       20389.884685
+min     -100000.000000
+25%       -9693.000000
+50%           1.000000
+75%        7747.000000
+max      109438.000000
+Name: Pred_Error, dtype: float64
+
+
+Of the people for whom isMarried is false (96486 of 217324 entries, or 44.39730540575362%), actual salaries are:
+count     96486.000000
+mean      30209.884968
+std       26082.506894
+min           0.000000
+25%        9385.000000
+50%       23464.000000
+75%       43016.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count     96486.000000
+mean      28194.490234
+std       22425.541016
+min           0.000000
+25%       10442.250000
+50%       24361.000000
+75%       39838.000000
+max      116471.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count     96486.000000
+mean      10026.419377
+std       12400.122052
+min           0.000000
+25%        2026.000000
+50%        5782.500000
+75%       13115.750000
+max      100000.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count     96486.000000
+mean      -2015.396700
+std       15818.700591
+min     -100000.000000
+25%       -6928.500000
+50%           1.000000
+75%        4848.000000
+max       97841.000000
+Name: Pred_Error, dtype: float64
+
+
+
+Of the people for whom wasMarried is true (29828 of 217324 entries, or 13.725129300031288%), actual salaries are:
+count     29828.000000
+mean      36388.482131
+std       27824.164261
+min           0.000000
+25%       15642.000000
+50%       31285.000000
+75%       50838.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count     29828.000000
+mean      33945.660156
+std       23703.402344
+min           0.000000
+25%       16929.750000
+50%       30660.500000
+75%       46816.500000
+max      107141.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count     29828.000000
+mean      12334.957121
+std       14135.666262
+min           0.000000
+25%        2873.750000
+50%        7597.500000
+75%       16586.000000
+max      100000.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count     29828.000000
+mean      -2442.823756
+std       18601.229556
+min     -100000.000000
+25%       -9243.250000
+50%           1.000000
+75%        6376.250000
+max       97513.000000
+Name: Pred_Error, dtype: float64
+
+
+Of the people for whom wasMarried is false (187496 of 217324 entries, or 86.27487069996872%), actual salaries are:
+count    187496.000000
+mean      39019.834471
+std       30504.177826
+min           0.000000
+25%       14860.000000
+50%       31285.000000
+75%       58659.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    187496.000000
+mean      37352.132812
+std       27577.150391
+min           0.000000
+25%       15882.000000
+50%       32347.000000
+75%       54090.250000
+max      116471.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    187496.000000
+mean      12017.999797
+std       14141.673115
+min           0.000000
+25%        2523.000000
+50%        7190.000000
+75%       16180.000000
+max      109438.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    187496.000000
+mean      -1667.695151
+std       18483.473321
+min     -100000.000000
+25%       -8242.000000
+50%           1.000000
+75%        6269.000000
+max      109438.000000
+Name: Pred_Error, dtype: float64
+
+
+
+Of the people for whom neverMarried is true (66658 of 217324 entries, or 30.672176105722333%), actual salaries are:
+count     66658.000000
+mean      27445.097603
+std       24770.322189
+min           0.000000
+25%        7821.000000
+50%       21665.000000
+75%       39106.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count     66658.000000
+mean      25620.966797
+std       21333.343750
+min           0.000000
+25%        8478.250000
+50%       21727.000000
+75%       36090.000000
+max      116471.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count     66658.000000
+mean       8993.399127
+std       11388.836275
+min           0.000000
+25%        1769.000000
+50%        5099.000000
+75%       11687.000000
+max      100000.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count     66658.000000
+mean      -1824.132422
+std       14396.545556
+min     -100000.000000
+25%       -6100.750000
+50%           1.000000
+75%        4226.750000
+max       97841.000000
+Name: Pred_Error, dtype: float64
+
+
+Of the people for whom neverMarried is false (150666 of 217324 entries, or 69.32782389427767%), actual salaries are:
+count    150666.000000
+mean      43619.816103
+std       30995.381705
+min           0.000000
+25%       19553.000000
+50%       39106.000000
+75%       64134.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    150666.000000
+mean      41867.878906
+std       27880.117188
+min           0.000000
+25%       21317.250000
+50%       37685.000000
+75%       59829.500000
+max      112820.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    150666.000000
+mean      13418.900031
+std       15001.900369
+min           0.000000
+25%        3127.000000
+50%        8427.000000
+75%       18307.000000
+max      109438.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    150666.000000
+mean      -1751.939376
+std       20051.328532
+min     -100000.000000
+25%       -9589.750000
+50%           1.000000
+75%        7449.750000
+max      109438.000000
+Name: Pred_Error, dtype: float64
+
+
+
+Of the people for whom sameSexMarriage is true (2655 of 217324 entries, or 1.2216782315804973%), actual salaries are:
+count      2655.000000
+mean      44905.488512
+std       31151.486982
+min           0.000000
+25%       20335.000000
+50%       39106.000000
+75%       67262.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count      2655.000000
+mean      43611.511719
+std       28287.937500
+min           0.000000
+25%       22460.000000
+50%       38584.000000
+75%       64649.000000
+max      116471.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count      2655.000000
+mean      13338.078343
+std       14518.129731
+min           0.000000
+25%        3478.000000
+50%        8558.000000
+75%       18173.000000
+max      105115.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count      2655.000000
+mean      -1293.977401
+std       19674.156879
+min      -99999.000000
+25%       -9756.500000
+50%           1.000000
+75%        7400.000000
+max      105115.000000
+Name: Pred_Error, dtype: float64
+
+
+Of the people for whom sameSexMarriage is false (214669 of 217324 entries, or 98.7783217684195%), actual salaries are:
+count    214669.000000
+mean      38581.418169
+std       30143.538798
+min           0.000000
+25%       14860.000000
+50%       31285.000000
+75%       56312.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    214669.000000
+mean      36801.398438
+std       27078.251953
+min           0.000000
+25%       15958.000000
+50%       31975.000000
+75%       52812.000000
+max      112820.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    214669.000000
+mean      12045.714067
+std       14135.825646
+min           0.000000
+25%        2557.000000
+50%        7236.000000
+75%       16204.000000
+max      109438.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    214669.000000
+mean      -1780.020436
+std       18486.562214
+min     -100000.000000
+25%       -8359.000000
+50%           1.000000
+75%        6269.000000
+max      109438.000000
+Name: Pred_Error, dtype: float64
+
+
+
+Of the people for whom mixedRaceMarriage is true (20529 of 217324 entries, or 9.446264563508862%), actual salaries are:
+count     20529.000000
+mean      46329.775488
+std       31424.767149
+min           0.000000
+25%       21899.000000
+50%       39106.000000
+75%       70391.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count     20529.000000
+mean      44918.886719
+std       28462.076172
+min           0.000000
+25%       23788.000000
+50%       40608.000000
+75%       65178.000000
+max      112820.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count     20529.000000
+mean      13420.978859
+std       14686.018019
+min           0.000000
+25%        3222.000000
+50%        8567.000000
+75%       18503.000000
+max      109438.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count     20529.000000
+mean      -1410.889035
+std       19844.895274
+min     -100000.000000
+25%       -9654.000000
+50%           1.000000
+75%        7687.000000
+max      109438.000000
+Name: Pred_Error, dtype: float64
+
+
+Of the people for whom mixedRaceMarriage is false (196795 of 217324 entries, or 90.55373543649114%), actual salaries are:
+count    196795.000000
+mean      37858.454575
+std       29916.411393
+min           0.000000
+25%       14078.000000
+50%       31285.000000
+75%       54748.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Predictions are
+count    196795.000000
+mean      36046.484375
+std       26819.763672
+min           0.000000
+25%       15346.000000
+50%       31197.000000
+75%       51684.500000
+max      116471.000000
+Name: Income_Pred, dtype: float64
+Absolute error is:
+count    196795.000000
+mean      11919.686557
+std       14075.671043
+min           0.000000
+25%        2511.000000
+50%        7111.000000
+75%       15986.000000
+max      106805.000000
+Name: Pred_AbsError, dtype: float64
+Relative error is:
+count    196795.000000
+mean      -1811.969694
+std       18355.405581
+min     -100000.000000
+25%       -8242.000000
+50%           1.000000
+75%        6137.000000
+max      106805.000000
+Name: Pred_Error, dtype: float64
+
+
+
