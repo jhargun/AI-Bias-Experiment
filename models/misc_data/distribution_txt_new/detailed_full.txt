@@ -1,0 +1,814 @@
+Of the people for whom isFemale is true, salary information is:
+count    689933.000000
+mean      37428.078499
+std       44020.824309
+min           0.000000
+25%       11732.000000
+50%       27374.000000
+75%       47709.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom isFemale is false, salary information is:
+count    758888.000000
+mean      53212.517818
+std       65583.938792
+min           0.000000
+25%       17989.000000
+50%       37542.000000
+75%       64916.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom isAmericanIndian is true, salary information is:
+count     42172.000000
+mean      35160.549108
+std       40239.010535
+min           0.000000
+25%       11732.000000
+50%       26748.000000
+75%       46927.000000
+max      533404.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom isAmericanIndian is false, salary information is:
+count    1.406649e+06
+mean     4.601177e+04
+std      5.729776e+04
+min      0.000000e+00
+25%      1.533000e+04
+50%      3.128500e+04
+75%      5.787700e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom isAsian is true, salary information is:
+count    114530.000000
+mean      58007.553087
+std       69589.552582
+min           0.000000
+25%       15642.000000
+50%       39106.000000
+75%       78212.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom isAsian is false, salary information is:
+count    1.334291e+06
+mean     4.463914e+04
+std      5.555230e+04
+min      0.000000e+00
+25%      1.486000e+04
+50%      3.128500e+04
+75%      5.474800e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom isBlack is true, salary information is:
+count    136251.000000
+mean      34639.904397
+std       39761.395750
+min           0.000000
+25%       11888.000000
+50%       26045.000000
+75%       45363.000000
+max      602231.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom isBlack is false, salary information is:
+count    1.312570e+06
+mean     4.684359e+04
+std      5.827457e+04
+min      0.000000e+00
+25%      1.564200e+04
+50%      3.284900e+04
+75%      5.865900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom isPacificIslander is true, salary information is:
+count      6072.000000
+mean      37382.914196
+std       41681.662455
+min           0.000000
+25%       13823.500000
+50%       28156.000000
+75%       48491.000000
+max      533404.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom isPacificIslander is false, salary information is:
+count    1.442749e+06
+mean     4.573091e+04
+std      5.695572e+04
+min      0.000000e+00
+25%      1.501700e+04
+50%      3.128500e+04
+75%      5.709500e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom isWhite is true, salary information is:
+count    1.118744e+06
+mean     4.715426e+04
+std      5.840158e+04
+min      0.000000e+00
+25%      1.564200e+04
+50%      3.347500e+04
+75%      5.865900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom isWhite is false, salary information is:
+count    330077.000000
+mean      40753.093933
+std       51191.480067
+min           0.000000
+25%       13296.000000
+50%       27374.000000
+75%       50838.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom isOtherRace is true, salary information is:
+count    190660.000000
+mean      34104.786625
+std       41632.541657
+min           0.000000
+25%       11732.000000
+50%       24637.000000
+75%       43016.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom isOtherRace is false, salary information is:
+count    1.258161e+06
+mean     4.745242e+04
+std      5.867282e+04
+min      0.000000e+00
+25%      1.564200e+04
+50%      3.324000e+04
+75%      5.865900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom hasHealthInsurance is true, salary information is:
+count    1.330742e+06
+mean     4.770908e+04
+std      5.833276e+04
+min      0.000000e+00
+25%      1.564200e+04
+50%      3.410000e+04
+75%      5.865900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom hasHealthInsurance is false, salary information is:
+count    118079.000000
+mean      23007.717562
+std       28643.089120
+min           0.000000
+25%        7508.000000
+50%       18536.000000
+75%       30503.000000
+max      602231.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom hasPrivateHealthInsurance is true, salary information is:
+count    1.189499e+06
+mean     5.092551e+04
+std      5.977644e+04
+min      0.000000e+00
+25%      1.955300e+04
+50%      3.754200e+04
+75%      6.256900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom hasPrivateHealthInsurance is false, salary information is:
+count    259322.000000
+mean      21708.006864
+std       31608.363604
+min           0.000000
+25%        5162.000000
+50%       15642.000000
+75%       27374.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom hasPublicHealthInsurance is true, salary information is:
+count    245927.000000
+mean      28510.951168
+std       44702.873541
+min           0.000000
+25%        5475.000000
+50%       16033.000000
+75%       35195.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom hasPublicHealthInsurance is false, salary information is:
+count    1.202894e+06
+mean     4.920932e+04
+std      5.846911e+04
+min      0.000000e+00
+25%      1.877100e+04
+50%      3.519500e+04
+75%      6.100500e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom isInSchool is true, salary information is:
+count    140914.000000
+mean      21078.469542
+std       32399.210265
+min           0.000000
+25%        3128.000000
+50%        9385.000000
+75%       28156.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom isInSchool is false, salary information is:
+count    1.307907e+06
+mean     4.834821e+04
+std      5.832120e+04
+min      0.000000e+00
+25%      1.720700e+04
+50%      3.488200e+04
+75%      5.865900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom isHispanic is true, salary information is:
+count    218986.000000
+mean      32970.956605
+std       38900.247736
+min           0.000000
+25%       11732.000000
+50%       24246.000000
+75%       41452.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom isHispanic is false, salary information is:
+count    1.229835e+06
+mean     4.796174e+04
+std      5.925425e+04
+min      0.000000e+00
+25%      1.564200e+04
+50%      3.378700e+04
+75%      5.865900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom bornInUS is true, salary information is:
+count    1.209661e+06
+mean     4.522631e+04
+std      5.570770e+04
+min      0.000000e+00
+25%      1.501700e+04
+50%      3.167600e+04
+75%      5.631200e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom bornInUS is false, salary information is:
+count    239160.000000
+mean      48071.207041
+std       62545.150830
+min           0.000000
+25%       15017.000000
+50%       31285.000000
+75%       58659.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom speaksEnglish is true, salary information is:
+count    1.436744e+06
+mean     4.590188e+04
+std      5.705296e+04
+min      0.000000e+00
+25%      1.533000e+04
+50%      3.128500e+04
+75%      5.787700e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom speaksEnglish is false, salary information is:
+count     12077.000000
+mean      21193.766830
+std       24432.439993
+min           0.000000
+25%        9385.000000
+50%       17676.000000
+75%       27374.000000
+max      495863.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom speaksOnlyEnglish is true, salary information is:
+count    1.155140e+06
+mean     4.653999e+04
+std      5.736126e+04
+min      0.000000e+00
+25%      1.564200e+04
+50%      3.284900e+04
+75%      5.865900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom speaksOnlyEnglish is false, salary information is:
+count    293681.000000
+mean      42375.913457
+std       54936.952364
+min           0.000000
+25%       13296.000000
+50%       27374.000000
+75%       52402.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom speaksEnglishWell is true, salary information is:
+count    1.402931e+06
+mean     4.639196e+04
+std      5.744187e+04
+min      0.000000e+00
+25%      1.564200e+04
+50%      3.245800e+04
+75%      5.865900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom speaksEnglishWell is false, salary information is:
+count     45890.000000
+mean      24416.852343
+std       29764.753504
+min           0.000000
+25%        9385.000000
+50%       19553.000000
+75%       31285.000000
+max      533404.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom isMarried is true, salary information is:
+count    803965.000000
+mean      55823.150948
+std       65577.420758
+min           0.000000
+25%       20335.000000
+50%       39106.000000
+75%       68826.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom isMarried is false, salary information is:
+count    644856.000000
+mean      33069.938332
+std       40324.107358
+min           0.000000
+25%        9385.000000
+50%       23464.000000
+75%       43016.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom wasMarried is true, salary information is:
+count    198273.000000
+mean      41081.048706
+std       47808.057683
+min           0.000000
+25%       15642.000000
+50%       31285.000000
+75%       51620.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom wasMarried is false, salary information is:
+count    1.250548e+06
+mean     4.642760e+04
+std      5.818082e+04
+min      0.000000e+00
+25%      1.486000e+04
+50%      3.128500e+04
+75%      5.865900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom neverMarried is true, salary information is:
+count    446583.000000
+mean      29513.182058
+std       35945.186020
+min           0.000000
+25%        7821.000000
+50%       21899.000000
+75%       39106.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom neverMarried is false, salary information is:
+count    1.002238e+06
+mean     5.290672e+04
+std      6.273993e+04
+min      0.000000e+00
+25%      1.955300e+04
+50%      3.910600e+04
+75%      6.413400e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom sameSexMarriage is true, salary information is:
+count     17979.000000
+mean      54786.314478
+std       64757.708683
+min           0.000000
+25%       20335.000000
+50%       39106.000000
+75%       66480.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom sameSexMarriage is false, salary information is:
+count    1.430842e+06
+mean     4.558170e+04
+std      5.678796e+04
+min      0.000000e+00
+25%      1.486000e+04
+50%      3.128500e+04
+75%      5.709500e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom mixedRaceMarriage is true, salary information is:
+count    137099.000000
+mean      56780.056696
+std       65255.991035
+min           0.000000
+25%       21899.000000
+50%       40670.000000
+75%       70391.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom mixedRaceMarriage is false, salary information is:
+count    1.311722e+06
+mean     4.453742e+04
+std      5.583097e+04
+min      0.000000e+00
+25%      1.407800e+04
+50%      3.128500e+04
+75%      5.474800e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom isSelfEmployed is true, salary information is:
+count    150721.000000
+mean      29670.498915
+std       66484.127713
+min           0.000000
+25%           0.000000
+50%           0.000000
+75%       32849.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom isSelfEmployed is false, salary information is:
+count    1.298100e+06
+mean     4.755661e+04
+std      5.538399e+04
+min      0.000000e+00
+25%      1.798900e+04
+50%      3.441300e+04
+75%      5.865900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom isPrivateSector is true, salary information is:
+count    1.059612e+06
+mean     4.791958e+04
+std      5.870530e+04
+min      3.000000e+00
+25%      1.642400e+04
+50%      3.206700e+04
+75%      5.865900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom isPrivateSector is false, salary information is:
+count    389209.000000
+mean      39642.057470
+std       51190.895797
+min           0.000000
+25%        4693.000000
+50%       31285.000000
+75%       54748.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom isPublicSector is true, salary information is:
+count    235633.000000
+mean      46248.196496
+std       36973.509344
+min           3.000000
+25%       23464.000000
+50%       39106.000000
+75%       60223.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom isPublicSector is false, salary information is:
+count    1.213188e+06
+mean     4.558865e+04
+std      6.001030e+04
+min      0.000000e+00
+25%      1.321800e+04
+50%      3.128500e+04
+75%      5.553000e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom isUnpaidFamilyWorker is true, salary information is:
+count      2855.000000
+mean      20832.572329
+std       43178.313795
+min           0.000000
+25%        2346.000000
+50%        8603.000000
+75%       23464.000000
+max      602231.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom isUnpaidFamilyWorker is false, salary information is:
+count    1.445966e+06
+mean     4.574501e+04
+std      5.691590e+04
+min      0.000000e+00
+25%      1.525100e+04
+50%      3.128500e+04
+75%      5.709500e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom noSchooling is true, salary information is:
+count     17586.00000
+mean      26009.15808
+std       32616.95952
+min           0.00000
+25%        9385.00000
+50%       20335.00000
+75%       32536.00000
+max      533404.00000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom noSchooling is false, salary information is:
+count    1.431235e+06
+mean     4.593782e+04
+std      5.709486e+04
+min      0.000000e+00
+25%      1.540800e+04
+50%      3.128500e+04
+75%      5.787700e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom maxGrade4 is true, salary information is:
+count      3839.000000
+mean      22865.538942
+std       28368.671187
+min           0.000000
+25%        9385.000000
+50%       19162.000000
+75%       28586.500000
+max      533404.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom maxGrade4 is false, salary information is:
+count    1.444982e+06
+mean     4.575657e+04
+std      5.694739e+04
+min      0.000000e+00
+25%      1.509500e+04
+50%      3.128500e+04
+75%      5.709500e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom maxGrade8 is true, salary information is:
+count     17453.000000
+mean      22739.363089
+std       24854.862125
+min           0.000000
+25%        8682.000000
+50%       19553.000000
+75%       31206.000000
+max      495863.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom maxGrade8 is false, salary information is:
+count    1.431368e+06
+mean     4.597583e+04
+std      5.712595e+04
+min      0.000000e+00
+25%      1.548600e+04
+50%      3.128500e+04
+75%      5.787700e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom maxSomeHS is true, salary information is:
+count     73655.000000
+mean      19272.754599
+std       27747.927680
+min           0.000000
+25%        2737.000000
+50%       12357.000000
+75%       27374.000000
+max      533404.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom maxSomeHS is false, salary information is:
+count    1.375166e+06
+mean     4.711117e+04
+std      5.771238e+04
+min      0.000000e+00
+25%      1.564200e+04
+50%      3.284900e+04
+75%      5.865900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom highSchoolDiploma is true, salary information is:
+count    333243.000000
+mean      28784.779614
+std       30501.240796
+min           0.000000
+25%       11262.000000
+50%       23464.000000
+75%       39106.000000
+max      602231.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom highSchoolDiploma is false, salary information is:
+count    1.115578e+06
+mean     5.074758e+04
+std      6.177624e+04
+min      0.000000e+00
+25%      1.564200e+04
+50%      3.597700e+04
+75%      6.256900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom someCollege is true, salary information is:
+count    289605.000000
+mean      32966.717567
+std       36971.880151
+min           0.000000
+25%       10637.000000
+50%       25575.000000
+75%       43799.000000
+max      602231.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom someCollege is false, salary information is:
+count    1.159216e+06
+mean     4.887603e+04
+std      6.045468e+04
+min      0.000000e+00
+25%      1.564200e+04
+50%      3.441300e+04
+75%      6.100500e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom associatesDegree is true, salary information is:
+count    134557.000000
+mean      37731.432270
+std       35016.581666
+min           0.000000
+25%       17207.000000
+50%       31285.000000
+75%       50838.000000
+max      602231.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom associatesDegree is false, salary information is:
+count    1.314264e+06
+mean     4.651134e+04
+std      5.862371e+04
+min      0.000000e+00
+25%      1.486000e+04
+50%      3.128500e+04
+75%      5.865900e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom bachelorsDegree is true, salary information is:
+count    348523.000000
+mean      58774.776356
+std       62977.255362
+min           0.000000
+25%       23464.000000
+50%       45363.000000
+75%       74301.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom bachelorsDegree is false, salary information is:
+count    1.100298e+06
+mean     4.155315e+04
+std      5.418418e+04
+min      0.000000e+00
+25%      1.251400e+04
+50%      2.846900e+04
+75%      5.083800e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom mastersDegree is true, salary information is:
+count    161376.000000
+mean      72852.831877
+std       73044.150912
+min           0.000000
+25%       34413.000000
+50%       56312.000000
+75%       88379.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom mastersDegree is false, salary information is:
+count    1.287445e+06
+mean     4.229191e+04
+std      5.358160e+04
+min      0.000000e+00
+25%      1.368700e+04
+50%      3.011200e+04
+75%      5.318400e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom bachelorsPlusProfessionalDegree is true, salary information is:
+count     39951.000000
+mean     117037.772321
+std      121334.058213
+min           0.000000
+25%       39106.000000
+50%       78212.000000
+75%      148602.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom bachelorsPlusProfessionalDegree is false, salary information is:
+count    1.408870e+06
+mean     4.367290e+04
+std      5.257253e+04
+min      0.000000e+00
+25%      1.486000e+04
+50%      3.128500e+04
+75%      5.474800e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom doctoralDegree is true, salary information is:
+count     29033.000000
+mean      93345.782317
+std       89294.278683
+min           0.000000
+25%       43016.000000
+50%       72737.000000
+75%      113407.000000
+max      615527.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom doctoralDegree is false, salary information is:
+count    1.419788e+06
+mean     4.472154e+04
+std      5.562122e+04
+min      0.000000e+00
+25%      1.486000e+04
+50%      3.128500e+04
+75%      5.553000e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom has2ndDegree is true, salary information is:
+count     66907.00000
+mean      70744.81703
+std       77854.11216
+min           0.00000
+25%       28156.00000
+50%       50838.00000
+75%       85251.00000
+max      615527.00000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom has2ndDegree is false, salary information is:
+count    1.381914e+06
+mean     4.448315e+04
+std      5.540207e+04
+min      0.000000e+00
+25%      1.454700e+04
+50%      3.128500e+04
+75%      5.474800e+04
+max      6.155270e+05
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+

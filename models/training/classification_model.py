@@ -3,18 +3,15 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 
-class CustomLoss(nn.Module):
-	def __init__(self):
-		super().__init__()
-
-	def forward(self, output, target, multiplier=1):
-		return torch.mean(torch.abs(output - target))
-
-
+# Source: https://towardsdatascience.com/how-to-perform-ordinal-regression-classification-in-pytorch-361a2a095a99
+# def ordinal_label_conversion(pred):
+#     return (pred > 0.5).cumprod(axis=1).sum(axis=1) - 1
 
 class ClassificationNet(nn.Module):
-    def __init__(self, inputSize: int):
+    def __init__(self, inputSize: int, usingOrdinal: bool):
         super().__init__()
+
+        self.usingOrdinal = usingOrdinal
         
         # Change input size
         self.input = nn.Linear(inputSize, 1024)
@@ -34,3 +31,5 @@ class ClassificationNet(nn.Module):
         x = F.leaky_relu(self.hidden4(x))
         x = F.leaky_relu(self.hidden5(x))
         x = self.output(x)
+        if self.usingOrdinal:
+            x = nn.Sigmoid()(x)
