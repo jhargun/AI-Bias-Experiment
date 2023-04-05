@@ -1,0 +1,16 @@
+[
+  "isFemale",
+  "isAmericanIndian",
+  "isAsian",
+  "isBlack",
+  "isPacificIslander",
+  "isWhite",
+  "isOtherRace",
+  "isHispanic",
+  "sameSexMarriage",
+  "mixedRaceMarriage",
+  "bornInUS",
+  "isMarried",
+  "wasMarried",
+  "neverMarried"
+]
