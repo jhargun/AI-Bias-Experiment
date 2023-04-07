@@ -1,0 +1,198 @@
+Of the people for whom age_10To20 is true, income is
+count      8218.000000
+mean       6440.105378
+std        7466.386155
+min           0.000000
+25%        1564.000000
+50%        3911.000000
+75%        8212.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom age_10To20 is false, income is
+count    209106.000000
+mean      39924.888540
+std       30017.240705
+min           0.000000
+25%       16033.000000
+50%       32849.000000
+75%       58659.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom age_20To30 is true, income is
+count     38426.000000
+mean      25491.413158
+std       20834.112558
+min           0.000000
+25%        9385.000000
+50%       21117.000000
+75%       35195.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom age_20To30 is false, income is
+count    178898.000000
+mean      41486.911464
+std       31093.877808
+min           0.000000
+25%       16190.000000
+50%       35195.000000
+75%       62569.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom age_30To40 is true, income is
+count     44719.000000
+mean      42504.587044
+std       28714.133228
+min           0.000000
+25%       21195.000000
+50%       37542.000000
+75%       59441.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom age_30To40 is false, income is
+count    172605.000000
+mean      37662.268770
+std       30449.339696
+min           0.000000
+25%       12983.000000
+50%       31285.000000
+75%       55530.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom age_40To50 is true, income is
+count     42583.000000
+mean      46392.770707
+std       31303.535114
+min           0.000000
+25%       21899.000000
+50%       40670.000000
+75%       70391.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom age_40To50 is false, income is
+count    174741.000000
+mean      36773.940712
+std       29574.867710
+min           0.000000
+25%       13296.000000
+50%       30503.000000
+75%       54748.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom age_50To60 is true, income is
+count     45837.000000
+mean      45438.083971
+std       31072.308341
+min           0.000000
+25%       21117.000000
+50%       39106.000000
+75%       67262.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom age_50To60 is false, income is
+count    171487.000000
+mean      36846.601048
+std       29655.277719
+min           0.000000
+25%       13140.000000
+50%       30503.000000
+75%       54748.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom age_60To70 is true, income is
+count     30028.000000
+mean      40128.993872
+std       31275.851847
+min           0.000000
+25%       14938.000000
+50%       32849.000000
+75%       60223.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom age_60To70 is false, income is
+count    187296.000000
+mean      38422.951376
+std       29975.267789
+min           0.000000
+25%       14860.000000
+50%       31285.000000
+75%       56312.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom age_70To80 is true, income is
+count      6623.000000
+mean      27930.121546
+std       30345.020419
+min           0.000000
+25%        4693.000000
+50%       16346.000000
+75%       39888.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom age_70To80 is false, income is
+count    210701.000000
+mean      38995.910480
+std       30096.414317
+min           0.000000
+25%       15642.000000
+50%       31363.000000
+75%       57877.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom age_80To90 is true, income is
+count       822.000000
+mean      22448.021898
+std       28179.803779
+min           0.000000
+25%        2209.500000
+50%       10950.000000
+75%       30620.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom age_80To90 is false, income is
+count    216502.000000
+mean      38720.225471
+std       30154.726948
+min           0.000000
+25%       15017.000000
+50%       31285.000000
+75%       57095.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+
+Of the people for whom age_90To100 is true, income is
+count        68.000000
+mean      22387.735294
+std       29036.274050
+min           0.000000
+25%        1075.250000
+50%       11732.000000
+75%       31285.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+Of the people for whom age_90To100 is false, income is
+count    217256.000000
+mean      38663.770681
+std       30163.019836
+min           0.000000
+25%       14860.000000
+50%       31285.000000
+75%       57095.000000
+max      100000.000000
+Name: INCWAGE_CPIU_2010, dtype: float64
+
+

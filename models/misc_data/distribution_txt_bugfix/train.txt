@@ -38,16 +38,16 @@ Information for column isPacificIslander:
 True: 5145, False: 1226352
 
 Information for column isWhite:
-True: 280628, False: 950869
+True: 950869, False: 280628
 
 Information for column isOtherRace:
 True: 162150, False: 1069347
 
 Information for column hasHealthInsurance:
-True: 100391, False: 1131106
+True: 1131106, False: 100391
 
 Information for column hasPrivateHealthInsurance:
-True: 220364, False: 1011133
+True: 1011133, False: 220364
 
 Information for column hasPublicHealthInsurance:
 True: 208840, False: 1022657
@@ -59,19 +59,19 @@ Information for column isHispanic:
 True: 186222, False: 1045275
 
 Information for column bornInUS:
-True: 203025, False: 1028472
+True: 1028472, False: 203025
 
 Information for column speaksEnglish:
-True: 10295, False: 1221202
+True: 1221202, False: 10295
 
 Information for column speaksOnlyEnglish:
-True: 249571, False: 981926
+True: 981926, False: 249571
 
 Information for column speaksEnglishWell:
-True: 38986, False: 1192511
+True: 1192511, False: 38986
 
 Information for column isMarried:
-True: 548370, False: 683127
+True: 683127, False: 548370
 
 Information for column wasMarried:
 True: 168445, False: 1063052
@@ -89,7 +89,7 @@ Information for column isSelfEmployed:
 True: 127906, False: 1103591
 
 Information for column isPrivateSector:
-True: 330938, False: 900559
+True: 900559, False: 330938
 
 Information for column isPublicSector:
 True: 200623, False: 1030874

@@ -1,135 +1,135 @@
-Values for Under 25k salary (575690 entries)
+Values for Over 75k salary (228699 entries)
 
 Information for column AGE:
-count    575690.000000
-mean         40.838785
-std          17.391372
+count    228699.000000
+mean         48.271046
+std          11.389016
 min          16.000000
-25%          25.000000
-50%          39.000000
-75%          56.000000
+25%          39.000000
+50%          48.000000
+75%          57.000000
 max          95.000000
 Name: AGE, dtype: float64
 
 Information for column INCWAGE_CPIU_2010:
-count    575690.000000
-mean      10871.010057
-std        8153.123469
-min           0.000000
-25%        3128.000000
-50%       10402.000000
-75%       18771.000000
-max       24950.000000
+count    228699.000000
+mean     137354.641476
+std       91532.722240
+min       75083.000000
+25%       86033.000000
+50%      102457.000000
+75%      141563.000000
+max      615527.000000
 Name: INCWAGE_CPIU_2010, dtype: float64
 
 Information for column isFemale:
-True: 261056, False: 314634
+True: 74401, False: 154298
 
 Information for column isAmericanIndian:
-True: 19837, False: 555853
+True: 3872, False: 224827
 
 Information for column isAsian:
-True: 40676, False: 535014
+True: 29821, False: 198878
 
 Information for column isBlack:
-True: 65353, False: 510337
+True: 11947, False: 216752
 
 Information for column isPacificIslander:
-True: 2679, False: 573011
+True: 675, False: 228024
 
 Information for column isWhite:
-True: 149924, False: 425766
+True: 184454, False: 44245
 
 Information for column isOtherRace:
-True: 95530, False: 480160
+True: 16432, False: 212267
 
 Information for column hasHealthInsurance:
-True: 78473, False: 497217
+True: 224958, False: 3741
 
 Information for column hasPrivateHealthInsurance:
-True: 184239, False: 391451
+True: 219715, False: 8984
 
 Information for column hasPublicHealthInsurance:
-True: 157938, False: 417752
+True: 19145, False: 209554
 
 Information for column isInSchool:
-True: 101344, False: 474346
+True: 6553, False: 222146
 
 Information for column isHispanic:
-True: 111162, False: 464528
+True: 17240, False: 211459
 
 Information for column bornInUS:
-True: 100640, False: 475050
+True: 185078, False: 43621
 
 Information for column speaksEnglish:
-True: 8624, False: 567066
+True: 228442, False: 257
 
 Information for column speaksOnlyEnglish:
-True: 133436, False: 442254
+True: 186010, False: 42689
 
 Information for column speaksEnglishWell:
-True: 29666, False: 546024
+True: 227111, False: 1588
 
 Information for column isMarried:
-True: 243439, False: 332251
+True: 174300, False: 54399
 
 Information for column wasMarried:
-True: 80020, False: 495670
+True: 24501, False: 204198
 
 Information for column neverMarried:
-True: 252231, False: 323459
+True: 29898, False: 198801
 
 Information for column sameSexMarriage:
-True: 5594, False: 570096
+True: 3740, False: 224959
 
 Information for column mixedRaceMarriage:
-True: 39871, False: 535819
+True: 30827, False: 197872
 
 Information for column isSelfEmployed:
-True: 106041, False: 469649
+True: 17129, False: 211570
 
 Information for column isPrivateSector:
-True: 171670, False: 404020
+True: 176234, False: 52465
 
 Information for column isPublicSector:
-True: 63408, False: 512282
+True: 35193, False: 193506
 
 Information for column isUnpaidFamilyWorker:
-True: 2221, False: 573469
+True: 143, False: 228556
 
 Information for column noSchooling:
-True: 10765, False: 564925
+True: 726, False: 227973
 
 Information for column maxGrade4:
-True: 2554, False: 573136
+True: 98, False: 228601
 
 Information for column maxGrade8:
-True: 11345, False: 564345
+True: 405, False: 228294
 
 Information for column maxSomeHS:
-True: 52703, False: 522987
+True: 1801, False: 226898
 
 Information for column highSchoolDiploma:
-True: 176160, False: 399530
+True: 15194, False: 213505
 
 Information for column someCollege:
-True: 140823, False: 434867
+True: 22618, False: 206081
 
 Information for column associatesDegree:
-True: 50541, False: 525149
+True: 12162, False: 216537
 
 Information for column bachelorsDegree:
-True: 90330, False: 485360
+True: 85522, False: 143177
 
 Information for column mastersDegree:
-True: 28919, False: 546771
+True: 55325, False: 173374
 
 Information for column bachelorsPlusProfessionalDegree:
-True: 7236, False: 568454
+True: 20695, False: 208004
 
 Information for column doctoralDegree:
-True: 4314, False: 571376
+True: 14153, False: 214546
 
 Information for column has2ndDegree:
-True: 14919, False: 560771
+True: 20862, False: 207837
 

@@ -1,0 +1,50 @@
+For occupation Managers, nec (including Postmasters):
+Number women: 21023 	Percent women: 0.4040475870154331
+Number isWhite: 42886 	Percent isWhite: 0.8242393957448444
+Number isBlack: 3481 	Percent isBlack: 0.06690242355518826
+Number isAsian: 4423 	Percent isAsian: 0.08500701504872095
+Number isAmericanIndian: 1326 	Percent isAmericanIndian: 0.02548480713420845
+Number isPacificIslander: 159 	Percent isPacificIslander: 0.003055870538717303
+Number isOtherRace: 4631 	Percent isOtherRace: 0.08900463185408698
+
+
+For occupation Registered nurses:
+Number women: 30900 	Percent women: 0.884373211219233
+Number isWhite: 27638 	Percent isWhite: 0.7910131654264453
+Number isBlack: 2961 	Percent isBlack: 0.08474527761877504
+Number isAsian: 3806 	Percent isAsian: 0.10892959358900973
+Number isAmericanIndian: 757 	Percent isAmericanIndian: 0.021665712650257584
+Number isPacificIslander: 113 	Percent isPacificIslander: 0.0032341156267887807
+Number isOtherRace: 2279 	Percent isOtherRace: 0.06522610188895249
+
+
+For occupation Chief executives and legislators/public administration:
+Number women: 4592 	Percent women: 0.2899722152058601
+Number isWhite: 13953 	Percent isWhite: 0.8810937105329628
+Number isBlack: 583 	Percent isBlack: 0.03681485223541298
+Number isAsian: 1137 	Percent isAsian: 0.07179843394796666
+Number isAmericanIndian: 307 	Percent isAmericanIndian: 0.019386208638545087
+Number isPacificIslander: 32 	Percent isPacificIslander: 0.002020712301086133
+Number isOtherRace: 980 	Percent isOtherRace: 0.06188431422076282
+
+
+For occupation Physicians and Surgeons:
+Number women: 3914 	Percent women: 0.38081338781864177
+Number isWhite: 7511 	Percent isWhite: 0.7307841992605565
+Number isBlack: 479 	Percent isBlack: 0.046604397742751505
+Number isAsian: 2302 	Percent isAsian: 0.22397353570733605
+Number isAmericanIndian: 115 	Percent isAmericanIndian: 0.01118894726600506
+Number isPacificIslander: 20 	Percent isPacificIslander: 0.001945903872348706
+Number isOtherRace: 683 	Percent isOtherRace: 0.0664526172407083
+
+
+For occupation Sales Representatives:
+Number women: 5070 	Percent women: 0.29213483146067415
+Number isWhite: 15206 	Percent isWhite: 0.876174013252665
+Number isBlack: 776 	Percent isBlack: 0.04471333909536157
+Number isAsian: 905 	Percent isAsian: 0.052146355517142036
+Number isAmericanIndian: 312 	Percent isAmericanIndian: 0.017977528089887642
+Number isPacificIslander: 49 	Percent isPacificIslander: 0.0028233938346297898
+Number isOtherRace: 1551 	Percent isOtherRace: 0.08936905790838374
+
+

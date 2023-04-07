@@ -1,0 +1,18 @@
+For degree Business:
+Number women: 53291 	Percent women: 0.45118657556746505
+Number isWhite: 94396 	Percent isWhite: 0.7992007653687571
+Number isBlack: 9427 	Percent isBlack: 0.0798133990331293
+Number isAsian: 12239 	Percent isAsian: 0.10362110859939211
+Number isAmericanIndian: 2060 	Percent isAmericanIndian: 0.017440925215683287
+Number isPacificIslander: 388 	Percent isPacificIslander: 0.0032849897979053957
+Number isOtherRace: 9791 	Percent isOtherRace: 0.08289519358580343
+
+
+For degree Engineering:
+Number women: 8666 	Percent women: 0.17458750528839373
+Number isWhite: 34822 	Percent isWhite: 0.7015331305276306
+Number isBlack: 2090 	Percent isBlack: 0.042105687289723394
+Number isAsian: 12004 	Percent isAsian: 0.2418357273807845
+Number isAmericanIndian: 745 	Percent isAmericanIndian: 0.015008965086528195
+Number isPacificIslander: 113 	Percent isPacificIslander: 0.0022765275903056186
+Number isOtherRace: 4454 	Percent isOtherRace: 0.08973145032939138

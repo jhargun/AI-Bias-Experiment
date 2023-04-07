@@ -38,16 +38,16 @@ Information for column isPacificIslander:
 True: 927, False: 216397
 
 Information for column isWhite:
-True: 49449, False: 167875
+True: 167875, False: 49449
 
 Information for column isOtherRace:
 True: 28510, False: 188814
 
 Information for column hasHealthInsurance:
-True: 17688, False: 199636
+True: 199636, False: 17688
 
 Information for column hasPrivateHealthInsurance:
-True: 38958, False: 178366
+True: 178366, False: 38958
 
 Information for column hasPublicHealthInsurance:
 True: 37087, False: 180237
@@ -59,17 +59,77 @@ Information for column isHispanic:
 True: 32764, False: 184560
 
 Information for column bornInUS:
-True: 36135, False: 181189
+True: 181189, False: 36135
 
 Information for column speaksEnglish:
-True: 1782, False: 215542
+True: 215542, False: 1782
+
+Information for column speaksOnlyEnglish:
+True: 173214, False: 44110
+
+Information for column speaksEnglishWell:
+True: 210420, False: 6904
+
+Information for column isMarried:
+True: 120838, False: 96486
+
+Information for column wasMarried:
+True: 29828, False: 187496
+
+Information for column neverMarried:
+True: 66658, False: 150666
+
+Information for column sameSexMarriage:
+True: 2655, False: 214669
+
+Information for column mixedRaceMarriage:
+True: 20529, False: 196795
 
 Information for column isSelfEmployed:
 True: 22815, False: 194509
 
 Information for column isPrivateSector:
-True: 58271, False: 159053
+True: 159053, False: 58271
 
 Information for column isPublicSector:
 True: 35010, False: 182314
+
+Information for column isUnpaidFamilyWorker:
+True: 446, False: 216878
+
+Information for column noSchooling:
+True: 2607, False: 214717
+
+Information for column maxGrade4:
+True: 579, False: 216745
+
+Information for column maxGrade8:
+True: 2585, False: 214739
+
+Information for column maxSomeHS:
+True: 11071, False: 206253
+
+Information for column highSchoolDiploma:
+True: 50229, False: 167095
+
+Information for column someCollege:
+True: 43530, False: 173794
+
+Information for column associatesDegree:
+True: 20039, False: 197285
+
+Information for column bachelorsDegree:
+True: 52249, False: 165075
+
+Information for column mastersDegree:
+True: 24034, False: 193290
+
+Information for column bachelorsPlusProfessionalDegree:
+True: 5987, False: 211337
+
+Information for column doctoralDegree:
+True: 4414, False: 212910
+
+Information for column has2ndDegree:
+True: 10022, False: 207302
 
