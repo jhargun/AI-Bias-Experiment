@@ -76,16 +76,17 @@ train_df.drop(['TRANTIME'], axis=1, inplace=True)
 
 # Train model
 
-# In[ ]:
+# In[11]:
 
 
 from sklearn.ensemble import RandomForestRegressor
-forest = RandomForestRegressor(n_estimators=1, max_depth=1, criterion='absolute_error', random_state=0, n_jobs=-1)
+forest = RandomForestRegressor(n_estimators=100, max_depth=7, criterion='absolute_error', random_state=0, n_jobs=-1)
 
 
-# In[ ]:
+# In[12]:
 
 
+print("Training")
 forest.fit(train_df.drop('INCWAGE_CPIU_2010', axis=1), train_df['INCWAGE_CPIU_2010'])
 
 
